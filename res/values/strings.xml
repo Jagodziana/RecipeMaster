@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecipeMaster</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">332285900305528</string>
+    <string name="title_facebook_login">Log Into Facebook</string>
+    <string name="button_send">Get the recipe</string>
+     <string name="desc">image</string>
+    <string name="title_activity_display_message">Pizza Recipe!</string>
+ 
+
+    
+
+</resources>
